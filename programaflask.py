@@ -21,3 +21,8 @@ def usuarios (nome_usuario):
 if __name__=="__main__":
     app.run(debug=True)
 
+cdcdlclc,lc,l,cld,cld,cld,cld,cld,clc,
+ld,cld,c,dlc,dl,cld,cld,cld,cl,dlc,dl,contatos
+cdc,ld,cld,cld,cl,dlc,ld,cld,cld,cl,cld,classmethod
+
+
